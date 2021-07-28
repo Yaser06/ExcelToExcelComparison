@@ -1,6 +1,5 @@
 package com.yaser.domain;
 
-import com.sun.tools.javac.util.Assert;
 import com.yaser.model.FirstExcel;
 import com.yaser.model.Report;
 import com.yaser.model.SecondExcel;
@@ -38,24 +37,14 @@ public class ExcelMatches {
             String mailExcel2 = excelList2.get(i).getEmail() != null ? excelList2.get(i).getEmail() : "";
 
 
-            if ((nameExcel1.equals(nameExcel2)) && (lastNameExcel1.equals(lastNameExcel2))) {
-                if ((mailExcel1.isEmpty() && telephoneExcel1.isEmpty())
-                        || (mailExcel2.isEmpty() && telephoneExcel2.isEmpty())) {
-                    matchStatus = "Mail ve telefon numaraları boş olduğu için kontrole alınmadı.";
-                } else {
-                    if (telephoneExcel1.equals(telephoneExcel2)) {
-                        matchStatus += "Telefon numaraları eşleşiyor.";
-                    } else
-                        matchStatus = "Telefon numaraları eşleşmiyor.";
-                    if (!mailExcel1.isEmpty() && !mailExcel2.isEmpty()) {
-                        if (mailExcel1.equals(mailExcel2)) {
-                            matchStatus += "Mailler eşleşiyor.";
-                        } else
-                            matchStatus = matchStatus + "Mailler eşleşmiyor.";
-                    }
-                }
+            if (!(nameExcel1.equals(nameExcel2) && lastNameExcel1.equals(lastNameExcel2))) {
+                matchStatus = "isimler ve soy isimler esit degil.";
+            } else if ((mailExcel1.isEmpty() && telephoneExcel1.isEmpty())
+                    || (mailExcel2.isEmpty() && telephoneExcel2.isEmpty())) {
+                matchStatus = "Mail ve telefon numaraları boş olduğu için kontrole alınmadı.";
+            } else if (!telephoneExcel1.equals(telephoneExcel2) && !mailExcel1.equals(mailExcel2)) {
+                matchStatus = "Telefon ve mail eşleşmedi";
             }
-
 
 
             Report newWriteExcel = new Report();

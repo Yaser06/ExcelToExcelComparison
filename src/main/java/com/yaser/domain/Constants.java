@@ -5,15 +5,15 @@ package com.yaser.domain;
  */
 public interface Constants {
 
-    static final String AD = "AD";
-    static final String SOYAD = "SOYAD";
-    static final String DOGUM_TARIHI = "DOĞUM TARİHİ";
-    static final String DOGUM_YERI = "DOĞUM YERİ";
-    static final String MAIL = "MAİL";
-    static final String TELEFON = "TELEFON";
-    static final String DURUM = "DURUM";
-    static final String CALISMA_DURUMU = "ÇALIŞMA DURUMU";
-    static final String UNIVERSITE = "ÜNİVERSİTE";
-    static final String ESLESME_DURUMU = "EŞLEŞME DURUMU";
+    String AD = "AD";
+    String SOYAD = "SOYAD";
+    String DOGUM_TARIHI = "DOĞUM TARİHİ";
+    String DOGUM_YERI = "DOĞUM YERİ";
+    String MAIL = "MAİL";
+    String TELEFON = "TELEFON";
+    String DURUM = "DURUM";
+    String CALISMA_DURUMU = "ÇALIŞMA DURUMU";
+    String UNIVERSITE = "ÜNİVERSİTE";
+    String ESLESME_DURUMU = "EŞLEŞME DURUMU";
 
 }

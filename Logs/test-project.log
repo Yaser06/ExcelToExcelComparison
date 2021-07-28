@@ -2262,3 +2262,1074 @@
 2021-07-21 14:19:48 INFO  WriteToExcelResult:69 - ############## Write New Excel Finished ###############
 2021-07-21 14:19:48 INFO  Main:27 - ############## Finish Matches project ###############
 2021-07-21 14:19:48 INFO  Main:28 - ############## The output is written. ###############
+2021-07-28 13:51:10 INFO  ReadToExcel:29 - ##############Starting Reading First Excel ###############
+2021-07-28 13:51:10 DEBUG ReadToExcel:124 - Reading First Excel Name :Sezai
+2021-07-28 13:51:10 DEBUG ReadToExcel:128 - Reading First Excel Surname :Çelik
+2021-07-28 13:51:10 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :20.01.1990
+2021-07-28 13:51:10 DEBUG ReadToExcel:136 - Reading First Excel Email :s.celik@hotmail.com
+2021-07-28 13:51:11 DEBUG ReadToExcel:140 - Reading First Excel Phone :5397806627
+2021-07-28 13:51:11 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumlu
+2021-07-28 13:51:11 DEBUG ReadToExcel:124 - Reading First Excel Name :Ahmet
+2021-07-28 13:51:11 DEBUG ReadToExcel:128 - Reading First Excel Surname :Duman
+2021-07-28 13:51:11 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :12.12.1998
+2021-07-28 13:51:11 DEBUG ReadToExcel:136 - Reading First Excel Email :ahmet.duman@gmail.com
+2021-07-28 13:51:11 DEBUG ReadToExcel:140 - Reading First Excel Phone :5452233422
+2021-07-28 13:51:11 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumlu
+2021-07-28 13:51:11 DEBUG ReadToExcel:124 - Reading First Excel Name :Tuncay
+2021-07-28 13:51:11 DEBUG ReadToExcel:128 - Reading First Excel Surname :Demir
+2021-07-28 13:51:11 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :01.03.2009
+2021-07-28 13:51:11 DEBUG ReadToExcel:136 - Reading First Excel Email :tuncay.demir@optiim.com
+2021-07-28 13:51:11 DEBUG ReadToExcel:140 - Reading First Excel Phone :5351239232
+2021-07-28 13:51:11 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumsuz
+2021-07-28 13:51:11 DEBUG ReadToExcel:124 - Reading First Excel Name :Zeynep
+2021-07-28 13:51:11 DEBUG ReadToExcel:128 - Reading First Excel Surname :Altınsoy
+2021-07-28 13:51:11 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :05.05.1997
+2021-07-28 13:51:11 DEBUG ReadToExcel:136 - Reading First Excel Email :
+2021-07-28 13:51:11 DEBUG ReadToExcel:144 - Reading First Excel Status :Bilinmiyor
+2021-07-28 13:51:11 DEBUG ReadToExcel:124 - Reading First Excel Name :Asli
+2021-07-28 13:51:11 DEBUG ReadToExcel:128 - Reading First Excel Surname :Gümüşsu
+2021-07-28 13:51:11 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :05.05.1997
+2021-07-28 13:51:11 DEBUG ReadToExcel:136 - Reading First Excel Email :a.gumussu@hotmail.com
+2021-07-28 13:51:11 DEBUG ReadToExcel:140 - Reading First Excel Phone :5437678987
+2021-07-28 13:51:11 DEBUG ReadToExcel:144 - Reading First Excel Status :Bilinmiyor
+2021-07-28 13:51:11 DEBUG ReadToExcel:124 - Reading First Excel Name :Serdar
+2021-07-28 13:51:11 DEBUG ReadToExcel:128 - Reading First Excel Surname :Ay
+2021-07-28 13:51:11 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :12.02.1978
+2021-07-28 13:51:11 DEBUG ReadToExcel:136 - Reading First Excel Email :s.ay@hotmail.com
+2021-07-28 13:51:11 DEBUG ReadToExcel:144 - Reading First Excel Status :Kontrol edilmedi
+2021-07-28 13:51:11 DEBUG ReadToExcel:124 - Reading First Excel Name :Mehmet
+2021-07-28 13:51:11 DEBUG ReadToExcel:128 - Reading First Excel Surname :Beşli
+2021-07-28 13:51:11 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :12.01.1990
+2021-07-28 13:51:11 DEBUG ReadToExcel:136 - Reading First Excel Email :m.besli@optiim.com
+2021-07-28 13:51:11 DEBUG ReadToExcel:140 - Reading First Excel Phone :5348778000
+2021-07-28 13:51:11 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumsuz
+2021-07-28 13:51:11 DEBUG ReadToExcel:124 - Reading First Excel Name :Mesut
+2021-07-28 13:51:11 DEBUG ReadToExcel:128 - Reading First Excel Surname :Çelik
+2021-07-28 13:51:11 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :04.05.1978
+2021-07-28 13:51:11 DEBUG ReadToExcel:136 - Reading First Excel Email :mesutcelik@optiim.com
+2021-07-28 13:51:11 DEBUG ReadToExcel:140 - Reading First Excel Phone :5557879340
+2021-07-28 13:51:11 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumlu
+2021-07-28 13:51:11 DEBUG ReadToExcel:124 - Reading First Excel Name :Hasibe
+2021-07-28 13:51:11 DEBUG ReadToExcel:128 - Reading First Excel Surname :Duman
+2021-07-28 13:51:11 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :11.10.2000
+2021-07-28 13:51:11 DEBUG ReadToExcel:140 - Reading First Excel Phone :5318900098
+2021-07-28 13:51:11 DEBUG ReadToExcel:124 - Reading First Excel Name :Hakan
+2021-07-28 13:51:11 DEBUG ReadToExcel:128 - Reading First Excel Surname :Soylu
+2021-07-28 13:51:11 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :10.04.2008
+2021-07-28 13:51:11 DEBUG ReadToExcel:136 - Reading First Excel Email :h.soylu@optiim.com
+2021-07-28 13:51:11 DEBUG ReadToExcel:140 - Reading First Excel Phone :5318900228
+2021-07-28 13:51:11 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumsuz
+2021-07-28 13:51:11 DEBUG ReadToExcel:124 - Reading First Excel Name :Sezai
+2021-07-28 13:51:11 DEBUG ReadToExcel:128 - Reading First Excel Surname :Çelik
+2021-07-28 13:51:11 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :20.01.1990
+2021-07-28 13:51:11 DEBUG ReadToExcel:136 - Reading First Excel Email :sezaicelik12@hotmail.com
+2021-07-28 13:51:11 DEBUG ReadToExcel:140 - Reading First Excel Phone :5397806619
+2021-07-28 13:51:11 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumlu
+2021-07-28 13:51:11 INFO  ReadToExcel:195 - Workbook and Input Stream closed.
+2021-07-28 13:51:11 INFO  ReadToExcel:64 - ##############Starting Reading Second Excel ###############
+2021-07-28 13:51:11 DEBUG ReadToExcel:157 - Reading Second Excel Name :Sezai
+2021-07-28 13:51:11 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Çelik
+2021-07-28 13:51:11 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :20.01.1990
+2021-07-28 13:51:11 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :İstanbul
+2021-07-28 13:51:11 DEBUG ReadToExcel:173 - Reading Second Excel Email :s.celik@hotmail.com
+2021-07-28 13:51:11 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5397806627
+2021-07-28 13:51:11 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışıyor
+2021-07-28 13:51:11 DEBUG ReadToExcel:185 - Reading Second Excel University :Dumlupınar
+2021-07-28 13:51:11 DEBUG ReadToExcel:157 - Reading Second Excel Name :Ahmet
+2021-07-28 13:51:11 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Duman
+2021-07-28 13:51:11 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :12.12.1998
+2021-07-28 13:51:11 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Ankara
+2021-07-28 13:51:11 DEBUG ReadToExcel:173 - Reading Second Excel Email :a.duman@gmail.com
+2021-07-28 13:51:11 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5452233432
+2021-07-28 13:51:11 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışıyor
+2021-07-28 13:51:11 DEBUG ReadToExcel:185 - Reading Second Excel University :İTÜ
+2021-07-28 13:51:11 DEBUG ReadToExcel:157 - Reading Second Excel Name :Tuncay
+2021-07-28 13:51:11 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Demir
+2021-07-28 13:51:11 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :01.03.2010
+2021-07-28 13:51:11 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :İzmir
+2021-07-28 13:51:11 DEBUG ReadToExcel:173 - Reading Second Excel Email :t.demir@optiim.com
+2021-07-28 13:51:11 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5351239273
+2021-07-28 13:51:11 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışmıyor
+2021-07-28 13:51:11 DEBUG ReadToExcel:185 - Reading Second Excel University :Odtü
+2021-07-28 13:51:11 DEBUG ReadToExcel:157 - Reading Second Excel Name :Zeynep
+2021-07-28 13:51:11 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Altınsoy
+2021-07-28 13:51:11 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :05.05.1997
+2021-07-28 13:51:11 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Diyarbakır
+2021-07-28 13:51:11 DEBUG ReadToExcel:173 - Reading Second Excel Email :z.altinsoy@gmail.com
+2021-07-28 13:51:11 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5428776767
+2021-07-28 13:51:11 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışmıyor
+2021-07-28 13:51:11 DEBUG ReadToExcel:185 - Reading Second Excel University :İstanbul Üniv.
+2021-07-28 13:51:11 DEBUG ReadToExcel:157 - Reading Second Excel Name :Asli
+2021-07-28 13:51:11 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Gümüşsu
+2021-07-28 13:51:11 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :05.05.1997
+2021-07-28 13:51:11 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Antalya
+2021-07-28 13:51:11 DEBUG ReadToExcel:173 - Reading Second Excel Email :a.gumussu@hotmail.com
+2021-07-28 13:51:11 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5437678987
+2021-07-28 13:51:11 DEBUG ReadToExcel:157 - Reading Second Excel Name :Serdar
+2021-07-28 13:51:11 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Ay
+2021-07-28 13:51:11 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :12.02.1978
+2021-07-28 13:51:11 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Muğla
+2021-07-28 13:51:11 DEBUG ReadToExcel:173 - Reading Second Excel Email :s.ay@hotmail.com
+2021-07-28 13:51:11 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışmıyor
+2021-07-28 13:51:11 DEBUG ReadToExcel:185 - Reading Second Excel University :Kastamonu Üniv.
+2021-07-28 13:51:11 DEBUG ReadToExcel:157 - Reading Second Excel Name :Mehmet
+2021-07-28 13:51:11 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Beşli
+2021-07-28 13:51:11 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :12.01.1990
+2021-07-28 13:51:11 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :İzmir
+2021-07-28 13:51:11 DEBUG ReadToExcel:173 - Reading Second Excel Email :m.besli@optiim.com
+2021-07-28 13:51:11 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5348778000
+2021-07-28 13:51:11 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışıyor
+2021-07-28 13:51:11 DEBUG ReadToExcel:157 - Reading Second Excel Name :Mesut
+2021-07-28 13:51:11 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Çelik
+2021-07-28 13:51:11 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :04.05.1998
+2021-07-28 13:51:11 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :İstanbul
+2021-07-28 13:51:11 DEBUG ReadToExcel:173 - Reading Second Excel Email :m.celik@optiim.com
+2021-07-28 13:51:11 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5557879870
+2021-07-28 13:51:11 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışıyor
+2021-07-28 13:51:11 DEBUG ReadToExcel:185 - Reading Second Excel University :Selçuk Üniv.
+2021-07-28 13:51:11 DEBUG ReadToExcel:157 - Reading Second Excel Name :Hasibe
+2021-07-28 13:51:11 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Duman
+2021-07-28 13:51:11 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :11.10.2000
+2021-07-28 13:51:11 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5318900098
+2021-07-28 13:51:11 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Bilinmiyor
+2021-07-28 13:51:11 DEBUG ReadToExcel:157 - Reading Second Excel Name :Hakan
+2021-07-28 13:51:11 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Soylu
+2021-07-28 13:51:11 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :10.04.2008
+2021-07-28 13:51:11 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Van
+2021-07-28 13:51:11 DEBUG ReadToExcel:173 - Reading Second Excel Email :h.soylu@optiim.com
+2021-07-28 13:51:11 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5318900228
+2021-07-28 13:51:11 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Bilinmiyor
+2021-07-28 13:51:11 DEBUG ReadToExcel:185 - Reading Second Excel University :Bilkent
+2021-07-28 13:51:11 DEBUG ReadToExcel:157 - Reading Second Excel Name :Sezai
+2021-07-28 13:51:11 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Çelik
+2021-07-28 13:51:11 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :20.01.1990
+2021-07-28 13:51:11 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Adana
+2021-07-28 13:51:11 DEBUG ReadToExcel:173 - Reading Second Excel Email :sezaicelik12@hotmail.com
+2021-07-28 13:51:11 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5397806619
+2021-07-28 13:51:11 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Olumlu
+2021-07-28 13:51:11 DEBUG ReadToExcel:185 - Reading Second Excel University :Marmara
+2021-07-28 13:51:11 INFO  ReadToExcel:195 - Workbook and Input Stream closed.
+2021-07-28 13:51:11 INFO  ExcelMatches:20 - ##############Starting Matches Excel ###############
+2021-07-28 13:51:11 INFO  ExcelMatches:23 - ############## Write New List Starting ###############
+2021-07-28 13:51:11 INFO  ExcelMatches:74 - ############## Write New List Finished ###############
+2021-07-28 13:51:11 INFO  WriteToExcelResult:35 - ############## Write New Excel Starting ###############
+2021-07-28 13:51:11 INFO  WriteToExcelResult:69 - ############## Write New Excel Finished ###############
+2021-07-28 13:51:11 INFO  Main:27 - ############## Finish Matches project ###############
+2021-07-28 13:51:11 INFO  Main:28 - ############## The output is written. ###############
+2021-07-28 17:17:36 INFO  ReadToExcel:29 - ##############Starting Reading First Excel ###############
+2021-07-28 17:17:37 DEBUG ReadToExcel:124 - Reading First Excel Name :Sezai
+2021-07-28 17:17:37 DEBUG ReadToExcel:128 - Reading First Excel Surname :Çelik
+2021-07-28 17:17:37 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :20.01.1990
+2021-07-28 17:17:37 DEBUG ReadToExcel:136 - Reading First Excel Email :s.celik@hotmail.com
+2021-07-28 17:17:37 DEBUG ReadToExcel:140 - Reading First Excel Phone :5397806627
+2021-07-28 17:17:37 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumlu
+2021-07-28 17:17:37 DEBUG ReadToExcel:124 - Reading First Excel Name :Ahmet
+2021-07-28 17:17:37 DEBUG ReadToExcel:128 - Reading First Excel Surname :Duman
+2021-07-28 17:17:37 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :12.12.1998
+2021-07-28 17:17:37 DEBUG ReadToExcel:136 - Reading First Excel Email :ahmet.duman@gmail.com
+2021-07-28 17:17:37 DEBUG ReadToExcel:140 - Reading First Excel Phone :5452233422
+2021-07-28 17:17:37 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumlu
+2021-07-28 17:17:37 DEBUG ReadToExcel:124 - Reading First Excel Name :Tuncay
+2021-07-28 17:17:37 DEBUG ReadToExcel:128 - Reading First Excel Surname :Demir
+2021-07-28 17:17:37 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :01.03.2009
+2021-07-28 17:17:37 DEBUG ReadToExcel:136 - Reading First Excel Email :tuncay.demir@optiim.com
+2021-07-28 17:17:37 DEBUG ReadToExcel:140 - Reading First Excel Phone :5351239232
+2021-07-28 17:17:37 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumsuz
+2021-07-28 17:17:37 DEBUG ReadToExcel:124 - Reading First Excel Name :Zeynep
+2021-07-28 17:17:37 DEBUG ReadToExcel:128 - Reading First Excel Surname :Altınsoy
+2021-07-28 17:17:37 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :05.05.1997
+2021-07-28 17:17:37 DEBUG ReadToExcel:136 - Reading First Excel Email :
+2021-07-28 17:17:37 DEBUG ReadToExcel:144 - Reading First Excel Status :Bilinmiyor
+2021-07-28 17:17:37 DEBUG ReadToExcel:124 - Reading First Excel Name :Asli
+2021-07-28 17:17:37 DEBUG ReadToExcel:128 - Reading First Excel Surname :Gümüşsu
+2021-07-28 17:17:37 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :05.05.1997
+2021-07-28 17:17:37 DEBUG ReadToExcel:136 - Reading First Excel Email :a.gumussu@hotmail.com
+2021-07-28 17:17:37 DEBUG ReadToExcel:140 - Reading First Excel Phone :5437678987
+2021-07-28 17:17:37 DEBUG ReadToExcel:144 - Reading First Excel Status :Bilinmiyor
+2021-07-28 17:17:37 DEBUG ReadToExcel:124 - Reading First Excel Name :Serdar
+2021-07-28 17:17:37 DEBUG ReadToExcel:128 - Reading First Excel Surname :Ay
+2021-07-28 17:17:37 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :12.02.1978
+2021-07-28 17:17:37 DEBUG ReadToExcel:136 - Reading First Excel Email :s.ay@hotmail.com
+2021-07-28 17:17:37 DEBUG ReadToExcel:144 - Reading First Excel Status :Kontrol edilmedi
+2021-07-28 17:17:37 DEBUG ReadToExcel:124 - Reading First Excel Name :Mehmet
+2021-07-28 17:17:37 DEBUG ReadToExcel:128 - Reading First Excel Surname :Beşli
+2021-07-28 17:17:37 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :12.01.1990
+2021-07-28 17:17:37 DEBUG ReadToExcel:136 - Reading First Excel Email :m.besli@optiim.com
+2021-07-28 17:17:37 DEBUG ReadToExcel:140 - Reading First Excel Phone :5348778000
+2021-07-28 17:17:37 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumsuz
+2021-07-28 17:17:37 DEBUG ReadToExcel:124 - Reading First Excel Name :Mesut
+2021-07-28 17:17:37 DEBUG ReadToExcel:128 - Reading First Excel Surname :Çelik
+2021-07-28 17:17:37 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :04.05.1978
+2021-07-28 17:17:37 DEBUG ReadToExcel:136 - Reading First Excel Email :mesutcelik@optiim.com
+2021-07-28 17:17:37 DEBUG ReadToExcel:140 - Reading First Excel Phone :5557879340
+2021-07-28 17:17:37 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumlu
+2021-07-28 17:17:37 DEBUG ReadToExcel:124 - Reading First Excel Name :Hasibe
+2021-07-28 17:17:37 DEBUG ReadToExcel:128 - Reading First Excel Surname :Duman
+2021-07-28 17:17:37 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :11.10.2000
+2021-07-28 17:17:37 DEBUG ReadToExcel:140 - Reading First Excel Phone :5318900098
+2021-07-28 17:17:37 DEBUG ReadToExcel:124 - Reading First Excel Name :Hakan
+2021-07-28 17:17:37 DEBUG ReadToExcel:128 - Reading First Excel Surname :Soylu
+2021-07-28 17:17:37 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :10.04.2008
+2021-07-28 17:17:37 DEBUG ReadToExcel:136 - Reading First Excel Email :h.soylu@optiim.com
+2021-07-28 17:17:37 DEBUG ReadToExcel:140 - Reading First Excel Phone :5318900228
+2021-07-28 17:17:37 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumsuz
+2021-07-28 17:17:37 DEBUG ReadToExcel:124 - Reading First Excel Name :Sezai
+2021-07-28 17:17:37 DEBUG ReadToExcel:128 - Reading First Excel Surname :Çelik
+2021-07-28 17:17:37 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :20.01.1990
+2021-07-28 17:17:37 DEBUG ReadToExcel:136 - Reading First Excel Email :sezaicelik12@hotmail.com
+2021-07-28 17:17:37 DEBUG ReadToExcel:140 - Reading First Excel Phone :5397806619
+2021-07-28 17:17:37 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumlu
+2021-07-28 17:17:37 INFO  ReadToExcel:195 - Workbook and Input Stream closed.
+2021-07-28 17:17:37 INFO  ReadToExcel:64 - ##############Starting Reading Second Excel ###############
+2021-07-28 17:17:37 DEBUG ReadToExcel:157 - Reading Second Excel Name :Sezai
+2021-07-28 17:17:37 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Çelik
+2021-07-28 17:17:37 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :20.01.1990
+2021-07-28 17:17:37 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :İstanbul
+2021-07-28 17:17:37 DEBUG ReadToExcel:173 - Reading Second Excel Email :s.celik@hotmail.com
+2021-07-28 17:17:37 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5397806627
+2021-07-28 17:17:37 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışıyor
+2021-07-28 17:17:37 DEBUG ReadToExcel:185 - Reading Second Excel University :Dumlupınar
+2021-07-28 17:17:37 DEBUG ReadToExcel:157 - Reading Second Excel Name :Ahmet
+2021-07-28 17:17:37 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Duman
+2021-07-28 17:17:37 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :12.12.1998
+2021-07-28 17:17:37 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Ankara
+2021-07-28 17:17:37 DEBUG ReadToExcel:173 - Reading Second Excel Email :a.duman@gmail.com
+2021-07-28 17:17:37 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5452233432
+2021-07-28 17:17:37 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışıyor
+2021-07-28 17:17:37 DEBUG ReadToExcel:185 - Reading Second Excel University :İTÜ
+2021-07-28 17:17:37 DEBUG ReadToExcel:157 - Reading Second Excel Name :Tuncay
+2021-07-28 17:17:37 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Demir
+2021-07-28 17:17:37 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :01.03.2010
+2021-07-28 17:17:37 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :İzmir
+2021-07-28 17:17:37 DEBUG ReadToExcel:173 - Reading Second Excel Email :t.demir@optiim.com
+2021-07-28 17:17:37 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5351239273
+2021-07-28 17:17:37 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışmıyor
+2021-07-28 17:17:37 DEBUG ReadToExcel:185 - Reading Second Excel University :Odtü
+2021-07-28 17:17:37 DEBUG ReadToExcel:157 - Reading Second Excel Name :Zeynep
+2021-07-28 17:17:37 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Altınsoy
+2021-07-28 17:17:37 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :05.05.1997
+2021-07-28 17:17:37 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Diyarbakır
+2021-07-28 17:17:37 DEBUG ReadToExcel:173 - Reading Second Excel Email :z.altinsoy@gmail.com
+2021-07-28 17:17:37 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5428776767
+2021-07-28 17:17:37 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışmıyor
+2021-07-28 17:17:37 DEBUG ReadToExcel:185 - Reading Second Excel University :İstanbul Üniv.
+2021-07-28 17:17:37 DEBUG ReadToExcel:157 - Reading Second Excel Name :Asli
+2021-07-28 17:17:37 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Gümüşsu
+2021-07-28 17:17:37 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :05.05.1997
+2021-07-28 17:17:37 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Antalya
+2021-07-28 17:17:37 DEBUG ReadToExcel:173 - Reading Second Excel Email :a.gumussu@hotmail.com
+2021-07-28 17:17:37 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5437678987
+2021-07-28 17:17:37 DEBUG ReadToExcel:157 - Reading Second Excel Name :Serdar
+2021-07-28 17:17:37 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Ay
+2021-07-28 17:17:37 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :12.02.1978
+2021-07-28 17:17:37 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Muğla
+2021-07-28 17:17:37 DEBUG ReadToExcel:173 - Reading Second Excel Email :s.ay@hotmail.com
+2021-07-28 17:17:37 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışmıyor
+2021-07-28 17:17:37 DEBUG ReadToExcel:185 - Reading Second Excel University :Kastamonu Üniv.
+2021-07-28 17:17:37 DEBUG ReadToExcel:157 - Reading Second Excel Name :Mehmet
+2021-07-28 17:17:37 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Beşli
+2021-07-28 17:17:37 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :12.01.1990
+2021-07-28 17:17:37 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :İzmir
+2021-07-28 17:17:37 DEBUG ReadToExcel:173 - Reading Second Excel Email :m.besli@optiim.com
+2021-07-28 17:17:37 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5348778000
+2021-07-28 17:17:37 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışıyor
+2021-07-28 17:17:37 DEBUG ReadToExcel:157 - Reading Second Excel Name :Mesut
+2021-07-28 17:17:37 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Çelik
+2021-07-28 17:17:37 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :04.05.1998
+2021-07-28 17:17:37 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :İstanbul
+2021-07-28 17:17:37 DEBUG ReadToExcel:173 - Reading Second Excel Email :m.celik@optiim.com
+2021-07-28 17:17:37 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5557879870
+2021-07-28 17:17:37 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışıyor
+2021-07-28 17:17:37 DEBUG ReadToExcel:185 - Reading Second Excel University :Selçuk Üniv.
+2021-07-28 17:17:37 DEBUG ReadToExcel:157 - Reading Second Excel Name :Hasibe
+2021-07-28 17:17:37 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Duman
+2021-07-28 17:17:37 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :11.10.2000
+2021-07-28 17:17:37 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5318900098
+2021-07-28 17:17:37 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Bilinmiyor
+2021-07-28 17:17:37 DEBUG ReadToExcel:157 - Reading Second Excel Name :Hakan
+2021-07-28 17:17:37 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Soylu
+2021-07-28 17:17:37 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :10.04.2008
+2021-07-28 17:17:37 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Van
+2021-07-28 17:17:37 DEBUG ReadToExcel:173 - Reading Second Excel Email :h.soylu@optiim.com
+2021-07-28 17:17:37 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5318900228
+2021-07-28 17:17:37 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Bilinmiyor
+2021-07-28 17:17:37 DEBUG ReadToExcel:185 - Reading Second Excel University :Bilkent
+2021-07-28 17:17:37 DEBUG ReadToExcel:157 - Reading Second Excel Name :Sezai
+2021-07-28 17:17:37 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Çelik
+2021-07-28 17:17:37 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :20.01.1990
+2021-07-28 17:17:37 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Adana
+2021-07-28 17:17:37 DEBUG ReadToExcel:173 - Reading Second Excel Email :sezaicelik12@hotmail.com
+2021-07-28 17:17:37 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5397806619
+2021-07-28 17:17:37 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Olumlu
+2021-07-28 17:17:37 DEBUG ReadToExcel:185 - Reading Second Excel University :Marmara
+2021-07-28 17:17:37 INFO  ReadToExcel:195 - Workbook and Input Stream closed.
+2021-07-28 17:17:37 INFO  ExcelMatches:21 - ##############Starting Matches Excel ###############
+2021-07-28 17:17:37 INFO  ExcelMatches:24 - ############## Write New List Starting ###############
+2021-07-28 17:17:37 INFO  ExcelMatches:76 - ############## Write New List Finished ###############
+2021-07-28 17:17:37 INFO  WriteToExcelResult:35 - ############## Write New Excel Starting ###############
+2021-07-28 17:17:37 INFO  WriteToExcelResult:69 - ############## Write New Excel Finished ###############
+2021-07-28 17:17:37 INFO  Main:27 - ############## Finish Matches project ###############
+2021-07-28 17:17:37 INFO  Main:28 - ############## The output is written. ###############
+2021-07-28 17:25:26 INFO  ReadToExcel:29 - ##############Starting Reading First Excel ###############
+2021-07-28 17:25:27 DEBUG ReadToExcel:124 - Reading First Excel Name :Sezai
+2021-07-28 17:25:27 DEBUG ReadToExcel:128 - Reading First Excel Surname :Çelik
+2021-07-28 17:25:27 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :20.01.1990
+2021-07-28 17:25:27 DEBUG ReadToExcel:136 - Reading First Excel Email :s.celik@hotmail.com
+2021-07-28 17:25:27 DEBUG ReadToExcel:140 - Reading First Excel Phone :5397806627
+2021-07-28 17:25:27 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumlu
+2021-07-28 17:25:27 DEBUG ReadToExcel:124 - Reading First Excel Name :Ahmet
+2021-07-28 17:25:27 DEBUG ReadToExcel:128 - Reading First Excel Surname :Duman
+2021-07-28 17:25:27 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :12.12.1998
+2021-07-28 17:25:27 DEBUG ReadToExcel:136 - Reading First Excel Email :ahmet.duman@gmail.com
+2021-07-28 17:25:27 DEBUG ReadToExcel:140 - Reading First Excel Phone :5452233422
+2021-07-28 17:25:27 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumlu
+2021-07-28 17:25:27 DEBUG ReadToExcel:124 - Reading First Excel Name :Tuncay
+2021-07-28 17:25:27 DEBUG ReadToExcel:128 - Reading First Excel Surname :Demir
+2021-07-28 17:25:27 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :01.03.2009
+2021-07-28 17:25:27 DEBUG ReadToExcel:136 - Reading First Excel Email :tuncay.demir@optiim.com
+2021-07-28 17:25:27 DEBUG ReadToExcel:140 - Reading First Excel Phone :5351239232
+2021-07-28 17:25:27 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumsuz
+2021-07-28 17:25:27 DEBUG ReadToExcel:124 - Reading First Excel Name :Zeynep
+2021-07-28 17:25:27 DEBUG ReadToExcel:128 - Reading First Excel Surname :Altınsoy
+2021-07-28 17:25:27 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :05.05.1997
+2021-07-28 17:25:27 DEBUG ReadToExcel:136 - Reading First Excel Email :
+2021-07-28 17:25:27 DEBUG ReadToExcel:144 - Reading First Excel Status :Bilinmiyor
+2021-07-28 17:25:27 DEBUG ReadToExcel:124 - Reading First Excel Name :Asli
+2021-07-28 17:25:27 DEBUG ReadToExcel:128 - Reading First Excel Surname :Gümüşsu
+2021-07-28 17:25:27 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :05.05.1997
+2021-07-28 17:25:27 DEBUG ReadToExcel:136 - Reading First Excel Email :a.gumussu@hotmail.com
+2021-07-28 17:25:27 DEBUG ReadToExcel:140 - Reading First Excel Phone :5437678987
+2021-07-28 17:25:27 DEBUG ReadToExcel:144 - Reading First Excel Status :Bilinmiyor
+2021-07-28 17:25:27 DEBUG ReadToExcel:124 - Reading First Excel Name :Serdar
+2021-07-28 17:25:27 DEBUG ReadToExcel:128 - Reading First Excel Surname :Ay
+2021-07-28 17:25:27 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :12.02.1978
+2021-07-28 17:25:27 DEBUG ReadToExcel:136 - Reading First Excel Email :s.ay@hotmail.com
+2021-07-28 17:25:27 DEBUG ReadToExcel:144 - Reading First Excel Status :Kontrol edilmedi
+2021-07-28 17:25:27 DEBUG ReadToExcel:124 - Reading First Excel Name :Mehmet
+2021-07-28 17:25:27 DEBUG ReadToExcel:128 - Reading First Excel Surname :Beşli
+2021-07-28 17:25:27 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :12.01.1990
+2021-07-28 17:25:27 DEBUG ReadToExcel:136 - Reading First Excel Email :m.besli@optiim.com
+2021-07-28 17:25:27 DEBUG ReadToExcel:140 - Reading First Excel Phone :5348778000
+2021-07-28 17:25:27 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumsuz
+2021-07-28 17:25:27 DEBUG ReadToExcel:124 - Reading First Excel Name :Mesut
+2021-07-28 17:25:27 DEBUG ReadToExcel:128 - Reading First Excel Surname :Çelik
+2021-07-28 17:25:27 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :04.05.1978
+2021-07-28 17:25:27 DEBUG ReadToExcel:136 - Reading First Excel Email :mesutcelik@optiim.com
+2021-07-28 17:25:27 DEBUG ReadToExcel:140 - Reading First Excel Phone :5557879340
+2021-07-28 17:25:27 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumlu
+2021-07-28 17:25:27 DEBUG ReadToExcel:124 - Reading First Excel Name :Hasibe
+2021-07-28 17:25:27 DEBUG ReadToExcel:128 - Reading First Excel Surname :Duman
+2021-07-28 17:25:27 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :11.10.2000
+2021-07-28 17:25:27 DEBUG ReadToExcel:140 - Reading First Excel Phone :5318900098
+2021-07-28 17:25:27 DEBUG ReadToExcel:124 - Reading First Excel Name :Hakan
+2021-07-28 17:25:27 DEBUG ReadToExcel:128 - Reading First Excel Surname :Soylu
+2021-07-28 17:25:27 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :10.04.2008
+2021-07-28 17:25:27 DEBUG ReadToExcel:136 - Reading First Excel Email :h.soylu@optiim.com
+2021-07-28 17:25:27 DEBUG ReadToExcel:140 - Reading First Excel Phone :5318900228
+2021-07-28 17:25:27 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumsuz
+2021-07-28 17:25:27 DEBUG ReadToExcel:124 - Reading First Excel Name :Sezai
+2021-07-28 17:25:27 DEBUG ReadToExcel:128 - Reading First Excel Surname :Çelik
+2021-07-28 17:25:27 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :20.01.1990
+2021-07-28 17:25:27 DEBUG ReadToExcel:136 - Reading First Excel Email :sezaicelik12@hotmail.com
+2021-07-28 17:25:27 DEBUG ReadToExcel:140 - Reading First Excel Phone :5397806619
+2021-07-28 17:25:27 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumlu
+2021-07-28 17:25:27 INFO  ReadToExcel:195 - Workbook and Input Stream closed.
+2021-07-28 17:25:27 INFO  ReadToExcel:64 - ##############Starting Reading Second Excel ###############
+2021-07-28 17:25:27 DEBUG ReadToExcel:157 - Reading Second Excel Name :Sezai
+2021-07-28 17:25:27 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Çelik
+2021-07-28 17:25:27 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :20.01.1990
+2021-07-28 17:25:27 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :İstanbul
+2021-07-28 17:25:27 DEBUG ReadToExcel:173 - Reading Second Excel Email :s.celik@hotmail.com
+2021-07-28 17:25:27 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5397806627
+2021-07-28 17:25:27 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışıyor
+2021-07-28 17:25:27 DEBUG ReadToExcel:185 - Reading Second Excel University :Dumlupınar
+2021-07-28 17:25:27 DEBUG ReadToExcel:157 - Reading Second Excel Name :Ahmet
+2021-07-28 17:25:27 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Duman
+2021-07-28 17:25:27 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :12.12.1998
+2021-07-28 17:25:27 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Ankara
+2021-07-28 17:25:27 DEBUG ReadToExcel:173 - Reading Second Excel Email :a.duman@gmail.com
+2021-07-28 17:25:27 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5452233432
+2021-07-28 17:25:27 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışıyor
+2021-07-28 17:25:27 DEBUG ReadToExcel:185 - Reading Second Excel University :İTÜ
+2021-07-28 17:25:27 DEBUG ReadToExcel:157 - Reading Second Excel Name :Tuncay
+2021-07-28 17:25:27 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Demir
+2021-07-28 17:25:27 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :01.03.2010
+2021-07-28 17:25:27 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :İzmir
+2021-07-28 17:25:27 DEBUG ReadToExcel:173 - Reading Second Excel Email :t.demir@optiim.com
+2021-07-28 17:25:27 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5351239273
+2021-07-28 17:25:27 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışmıyor
+2021-07-28 17:25:27 DEBUG ReadToExcel:185 - Reading Second Excel University :Odtü
+2021-07-28 17:25:27 DEBUG ReadToExcel:157 - Reading Second Excel Name :Zeynep
+2021-07-28 17:25:27 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Altınsoy
+2021-07-28 17:25:27 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :05.05.1997
+2021-07-28 17:25:27 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Diyarbakır
+2021-07-28 17:25:27 DEBUG ReadToExcel:173 - Reading Second Excel Email :z.altinsoy@gmail.com
+2021-07-28 17:25:27 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5428776767
+2021-07-28 17:25:27 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışmıyor
+2021-07-28 17:25:27 DEBUG ReadToExcel:185 - Reading Second Excel University :İstanbul Üniv.
+2021-07-28 17:25:27 DEBUG ReadToExcel:157 - Reading Second Excel Name :Asli
+2021-07-28 17:25:27 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Gümüşsu
+2021-07-28 17:25:27 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :05.05.1997
+2021-07-28 17:25:27 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Antalya
+2021-07-28 17:25:27 DEBUG ReadToExcel:173 - Reading Second Excel Email :a.gumussu@hotmail.com
+2021-07-28 17:25:27 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5437678987
+2021-07-28 17:25:27 DEBUG ReadToExcel:157 - Reading Second Excel Name :Serdar
+2021-07-28 17:25:27 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Ay
+2021-07-28 17:25:27 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :12.02.1978
+2021-07-28 17:25:27 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Muğla
+2021-07-28 17:25:27 DEBUG ReadToExcel:173 - Reading Second Excel Email :s.ay@hotmail.com
+2021-07-28 17:25:27 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışmıyor
+2021-07-28 17:25:27 DEBUG ReadToExcel:185 - Reading Second Excel University :Kastamonu Üniv.
+2021-07-28 17:25:27 DEBUG ReadToExcel:157 - Reading Second Excel Name :Mehmet
+2021-07-28 17:25:27 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Beşli
+2021-07-28 17:25:27 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :12.01.1990
+2021-07-28 17:25:27 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :İzmir
+2021-07-28 17:25:27 DEBUG ReadToExcel:173 - Reading Second Excel Email :m.besli@optiim.com
+2021-07-28 17:25:27 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5348778000
+2021-07-28 17:25:27 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışıyor
+2021-07-28 17:25:27 DEBUG ReadToExcel:157 - Reading Second Excel Name :Mesut
+2021-07-28 17:25:27 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Çelik
+2021-07-28 17:25:27 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :04.05.1998
+2021-07-28 17:25:27 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :İstanbul
+2021-07-28 17:25:27 DEBUG ReadToExcel:173 - Reading Second Excel Email :m.celik@optiim.com
+2021-07-28 17:25:27 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5557879870
+2021-07-28 17:25:27 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışıyor
+2021-07-28 17:25:27 DEBUG ReadToExcel:185 - Reading Second Excel University :Selçuk Üniv.
+2021-07-28 17:25:27 DEBUG ReadToExcel:157 - Reading Second Excel Name :Hasibe
+2021-07-28 17:25:27 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Duman
+2021-07-28 17:25:27 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :11.10.2000
+2021-07-28 17:25:27 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5318900098
+2021-07-28 17:25:27 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Bilinmiyor
+2021-07-28 17:25:27 DEBUG ReadToExcel:157 - Reading Second Excel Name :Hakan
+2021-07-28 17:25:27 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Soylu
+2021-07-28 17:25:27 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :10.04.2008
+2021-07-28 17:25:27 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Van
+2021-07-28 17:25:27 DEBUG ReadToExcel:173 - Reading Second Excel Email :h.soylu@optiim.com
+2021-07-28 17:25:27 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5318900228
+2021-07-28 17:25:27 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Bilinmiyor
+2021-07-28 17:25:27 DEBUG ReadToExcel:185 - Reading Second Excel University :Bilkent
+2021-07-28 17:25:27 DEBUG ReadToExcel:157 - Reading Second Excel Name :Sezai
+2021-07-28 17:25:27 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Çelik
+2021-07-28 17:25:27 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :20.01.1990
+2021-07-28 17:25:27 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Adana
+2021-07-28 17:25:27 DEBUG ReadToExcel:173 - Reading Second Excel Email :sezaicelik12@hotmail.com
+2021-07-28 17:25:27 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5397806619
+2021-07-28 17:25:27 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Olumlu
+2021-07-28 17:25:27 DEBUG ReadToExcel:185 - Reading Second Excel University :Marmara
+2021-07-28 17:25:27 INFO  ReadToExcel:195 - Workbook and Input Stream closed.
+2021-07-28 17:25:27 INFO  ExcelMatches:21 - ##############Starting Matches Excel ###############
+2021-07-28 17:25:27 INFO  ExcelMatches:24 - ############## Write New List Starting ###############
+2021-07-28 17:29:04 INFO  ExcelMatches:76 - ############## Write New List Finished ###############
+2021-07-28 17:29:04 INFO  WriteToExcelResult:35 - ############## Write New Excel Starting ###############
+2021-07-28 17:29:04 INFO  WriteToExcelResult:69 - ############## Write New Excel Finished ###############
+2021-07-28 17:29:04 INFO  Main:27 - ############## Finish Matches project ###############
+2021-07-28 17:29:04 INFO  Main:28 - ############## The output is written. ###############
+2021-07-28 17:29:23 INFO  ReadToExcel:29 - ##############Starting Reading First Excel ###############
+2021-07-28 17:29:24 DEBUG ReadToExcel:124 - Reading First Excel Name :Sezai
+2021-07-28 17:29:24 DEBUG ReadToExcel:128 - Reading First Excel Surname :Çelik
+2021-07-28 17:29:24 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :20.01.1990
+2021-07-28 17:29:24 DEBUG ReadToExcel:136 - Reading First Excel Email :s.celik@hotmail.com
+2021-07-28 17:29:24 DEBUG ReadToExcel:140 - Reading First Excel Phone :5397806627
+2021-07-28 17:29:24 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumlu
+2021-07-28 17:29:24 DEBUG ReadToExcel:124 - Reading First Excel Name :Ahmet
+2021-07-28 17:29:24 DEBUG ReadToExcel:128 - Reading First Excel Surname :Duman
+2021-07-28 17:29:24 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :12.12.1998
+2021-07-28 17:29:24 DEBUG ReadToExcel:136 - Reading First Excel Email :ahmet.duman@gmail.com
+2021-07-28 17:29:24 DEBUG ReadToExcel:140 - Reading First Excel Phone :5452233422
+2021-07-28 17:29:24 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumlu
+2021-07-28 17:29:24 DEBUG ReadToExcel:124 - Reading First Excel Name :Tuncay
+2021-07-28 17:29:24 DEBUG ReadToExcel:128 - Reading First Excel Surname :Demir
+2021-07-28 17:29:24 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :01.03.2009
+2021-07-28 17:29:24 DEBUG ReadToExcel:136 - Reading First Excel Email :tuncay.demir@optiim.com
+2021-07-28 17:29:24 DEBUG ReadToExcel:140 - Reading First Excel Phone :5351239232
+2021-07-28 17:29:24 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumsuz
+2021-07-28 17:29:24 DEBUG ReadToExcel:124 - Reading First Excel Name :Zeynep
+2021-07-28 17:29:24 DEBUG ReadToExcel:128 - Reading First Excel Surname :Altınsoy
+2021-07-28 17:29:24 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :05.05.1997
+2021-07-28 17:29:24 DEBUG ReadToExcel:136 - Reading First Excel Email :
+2021-07-28 17:29:24 DEBUG ReadToExcel:144 - Reading First Excel Status :Bilinmiyor
+2021-07-28 17:29:24 DEBUG ReadToExcel:124 - Reading First Excel Name :Asli
+2021-07-28 17:29:24 DEBUG ReadToExcel:128 - Reading First Excel Surname :Gümüşsu
+2021-07-28 17:29:24 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :05.05.1997
+2021-07-28 17:29:24 DEBUG ReadToExcel:136 - Reading First Excel Email :a.gumussu@hotmail.com
+2021-07-28 17:29:24 DEBUG ReadToExcel:140 - Reading First Excel Phone :5437678987
+2021-07-28 17:29:24 DEBUG ReadToExcel:144 - Reading First Excel Status :Bilinmiyor
+2021-07-28 17:29:24 DEBUG ReadToExcel:124 - Reading First Excel Name :Serdar
+2021-07-28 17:29:24 DEBUG ReadToExcel:128 - Reading First Excel Surname :Ay
+2021-07-28 17:29:24 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :12.02.1978
+2021-07-28 17:29:24 DEBUG ReadToExcel:136 - Reading First Excel Email :s.ay@hotmail.com
+2021-07-28 17:29:24 DEBUG ReadToExcel:144 - Reading First Excel Status :Kontrol edilmedi
+2021-07-28 17:29:24 DEBUG ReadToExcel:124 - Reading First Excel Name :Mehmet
+2021-07-28 17:29:24 DEBUG ReadToExcel:128 - Reading First Excel Surname :Beşli
+2021-07-28 17:29:24 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :12.01.1990
+2021-07-28 17:29:24 DEBUG ReadToExcel:136 - Reading First Excel Email :m.besli@optiim.com
+2021-07-28 17:29:24 DEBUG ReadToExcel:140 - Reading First Excel Phone :5348778000
+2021-07-28 17:29:24 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumsuz
+2021-07-28 17:29:24 DEBUG ReadToExcel:124 - Reading First Excel Name :Mesut
+2021-07-28 17:29:24 DEBUG ReadToExcel:128 - Reading First Excel Surname :Çelik
+2021-07-28 17:29:24 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :04.05.1978
+2021-07-28 17:29:24 DEBUG ReadToExcel:136 - Reading First Excel Email :mesutcelik@optiim.com
+2021-07-28 17:29:24 DEBUG ReadToExcel:140 - Reading First Excel Phone :5557879340
+2021-07-28 17:29:24 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumlu
+2021-07-28 17:29:24 DEBUG ReadToExcel:124 - Reading First Excel Name :Hasibe
+2021-07-28 17:29:24 DEBUG ReadToExcel:128 - Reading First Excel Surname :Duman
+2021-07-28 17:29:24 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :11.10.2000
+2021-07-28 17:29:24 DEBUG ReadToExcel:140 - Reading First Excel Phone :5318900098
+2021-07-28 17:29:24 DEBUG ReadToExcel:124 - Reading First Excel Name :Hakan
+2021-07-28 17:29:24 DEBUG ReadToExcel:128 - Reading First Excel Surname :Soylu
+2021-07-28 17:29:24 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :10.04.2008
+2021-07-28 17:29:24 DEBUG ReadToExcel:136 - Reading First Excel Email :h.soylu@optiim.com
+2021-07-28 17:29:24 DEBUG ReadToExcel:140 - Reading First Excel Phone :5318900228
+2021-07-28 17:29:24 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumsuz
+2021-07-28 17:29:24 DEBUG ReadToExcel:124 - Reading First Excel Name :Sezai
+2021-07-28 17:29:24 DEBUG ReadToExcel:128 - Reading First Excel Surname :Çelik
+2021-07-28 17:29:24 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :20.01.1990
+2021-07-28 17:29:24 DEBUG ReadToExcel:136 - Reading First Excel Email :sezaicelik12@hotmail.com
+2021-07-28 17:29:24 DEBUG ReadToExcel:140 - Reading First Excel Phone :5397806619
+2021-07-28 17:29:24 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumlu
+2021-07-28 17:29:24 INFO  ReadToExcel:195 - Workbook and Input Stream closed.
+2021-07-28 17:29:24 INFO  ReadToExcel:64 - ##############Starting Reading Second Excel ###############
+2021-07-28 17:29:24 DEBUG ReadToExcel:157 - Reading Second Excel Name :Sezai
+2021-07-28 17:29:24 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Çelik
+2021-07-28 17:29:24 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :20.01.1990
+2021-07-28 17:29:24 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :İstanbul
+2021-07-28 17:29:24 DEBUG ReadToExcel:173 - Reading Second Excel Email :s.celik@hotmail.com
+2021-07-28 17:29:24 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5397806627
+2021-07-28 17:29:24 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışıyor
+2021-07-28 17:29:24 DEBUG ReadToExcel:185 - Reading Second Excel University :Dumlupınar
+2021-07-28 17:29:24 DEBUG ReadToExcel:157 - Reading Second Excel Name :Ahmet
+2021-07-28 17:29:24 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Duman
+2021-07-28 17:29:24 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :12.12.1998
+2021-07-28 17:29:24 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Ankara
+2021-07-28 17:29:24 DEBUG ReadToExcel:173 - Reading Second Excel Email :a.duman@gmail.com
+2021-07-28 17:29:24 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5452233432
+2021-07-28 17:29:24 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışıyor
+2021-07-28 17:29:24 DEBUG ReadToExcel:185 - Reading Second Excel University :İTÜ
+2021-07-28 17:29:24 DEBUG ReadToExcel:157 - Reading Second Excel Name :Tuncay
+2021-07-28 17:29:24 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Demir
+2021-07-28 17:29:24 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :01.03.2010
+2021-07-28 17:29:24 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :İzmir
+2021-07-28 17:29:24 DEBUG ReadToExcel:173 - Reading Second Excel Email :t.demir@optiim.com
+2021-07-28 17:29:24 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5351239273
+2021-07-28 17:29:24 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışmıyor
+2021-07-28 17:29:24 DEBUG ReadToExcel:185 - Reading Second Excel University :Odtü
+2021-07-28 17:29:24 DEBUG ReadToExcel:157 - Reading Second Excel Name :Zeynep
+2021-07-28 17:29:24 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Altınsoy
+2021-07-28 17:29:24 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :05.05.1997
+2021-07-28 17:29:24 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Diyarbakır
+2021-07-28 17:29:24 DEBUG ReadToExcel:173 - Reading Second Excel Email :z.altinsoy@gmail.com
+2021-07-28 17:29:24 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5428776767
+2021-07-28 17:29:24 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışmıyor
+2021-07-28 17:29:24 DEBUG ReadToExcel:185 - Reading Second Excel University :İstanbul Üniv.
+2021-07-28 17:29:24 DEBUG ReadToExcel:157 - Reading Second Excel Name :Asli
+2021-07-28 17:29:24 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Gümüşsu
+2021-07-28 17:29:24 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :05.05.1997
+2021-07-28 17:29:24 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Antalya
+2021-07-28 17:29:24 DEBUG ReadToExcel:173 - Reading Second Excel Email :a.gumussu@hotmail.com
+2021-07-28 17:29:24 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5437678987
+2021-07-28 17:29:24 DEBUG ReadToExcel:157 - Reading Second Excel Name :Serdar
+2021-07-28 17:29:24 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Ay
+2021-07-28 17:29:24 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :12.02.1978
+2021-07-28 17:29:24 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Muğla
+2021-07-28 17:29:24 DEBUG ReadToExcel:173 - Reading Second Excel Email :s.ay@hotmail.com
+2021-07-28 17:29:24 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışmıyor
+2021-07-28 17:29:24 DEBUG ReadToExcel:185 - Reading Second Excel University :Kastamonu Üniv.
+2021-07-28 17:29:24 DEBUG ReadToExcel:157 - Reading Second Excel Name :Mehmet
+2021-07-28 17:29:24 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Beşli
+2021-07-28 17:29:24 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :12.01.1990
+2021-07-28 17:29:24 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :İzmir
+2021-07-28 17:29:24 DEBUG ReadToExcel:173 - Reading Second Excel Email :m.besli@optiim.com
+2021-07-28 17:29:24 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5348778000
+2021-07-28 17:29:24 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışıyor
+2021-07-28 17:29:24 DEBUG ReadToExcel:157 - Reading Second Excel Name :Mesut
+2021-07-28 17:29:24 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Çelik
+2021-07-28 17:29:24 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :04.05.1998
+2021-07-28 17:29:24 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :İstanbul
+2021-07-28 17:29:24 DEBUG ReadToExcel:173 - Reading Second Excel Email :m.celik@optiim.com
+2021-07-28 17:29:24 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5557879870
+2021-07-28 17:29:24 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışıyor
+2021-07-28 17:29:24 DEBUG ReadToExcel:185 - Reading Second Excel University :Selçuk Üniv.
+2021-07-28 17:29:24 DEBUG ReadToExcel:157 - Reading Second Excel Name :Hasibe
+2021-07-28 17:29:24 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Duman
+2021-07-28 17:29:24 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :11.10.2000
+2021-07-28 17:29:24 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5318900098
+2021-07-28 17:29:24 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Bilinmiyor
+2021-07-28 17:29:24 DEBUG ReadToExcel:157 - Reading Second Excel Name :Hakan
+2021-07-28 17:29:24 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Soylu
+2021-07-28 17:29:24 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :10.04.2008
+2021-07-28 17:29:24 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Van
+2021-07-28 17:29:24 DEBUG ReadToExcel:173 - Reading Second Excel Email :h.soylu@optiim.com
+2021-07-28 17:29:24 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5318900228
+2021-07-28 17:29:24 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Bilinmiyor
+2021-07-28 17:29:24 DEBUG ReadToExcel:185 - Reading Second Excel University :Bilkent
+2021-07-28 17:29:24 DEBUG ReadToExcel:157 - Reading Second Excel Name :Sezai
+2021-07-28 17:29:24 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Çelik
+2021-07-28 17:29:24 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :20.01.1990
+2021-07-28 17:29:24 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Adana
+2021-07-28 17:29:24 DEBUG ReadToExcel:173 - Reading Second Excel Email :sezaicelik12@hotmail.com
+2021-07-28 17:29:24 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5397806619
+2021-07-28 17:29:24 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Olumlu
+2021-07-28 17:29:24 DEBUG ReadToExcel:185 - Reading Second Excel University :Marmara
+2021-07-28 17:29:24 INFO  ReadToExcel:195 - Workbook and Input Stream closed.
+2021-07-28 17:29:24 INFO  ExcelMatches:21 - ##############Starting Matches Excel ###############
+2021-07-28 17:29:24 INFO  ExcelMatches:24 - ############## Write New List Starting ###############
+2021-07-28 17:29:56 INFO  ExcelMatches:76 - ############## Write New List Finished ###############
+2021-07-28 17:29:56 INFO  WriteToExcelResult:35 - ############## Write New Excel Starting ###############
+2021-07-28 17:29:56 INFO  WriteToExcelResult:69 - ############## Write New Excel Finished ###############
+2021-07-28 17:29:56 INFO  Main:27 - ############## Finish Matches project ###############
+2021-07-28 17:29:56 INFO  Main:28 - ############## The output is written. ###############
+2021-07-28 17:30:02 INFO  ReadToExcel:29 - ##############Starting Reading First Excel ###############
+2021-07-28 17:30:03 DEBUG ReadToExcel:124 - Reading First Excel Name :Sezai
+2021-07-28 17:30:03 DEBUG ReadToExcel:128 - Reading First Excel Surname :Çelik
+2021-07-28 17:30:03 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :20.01.1990
+2021-07-28 17:30:03 DEBUG ReadToExcel:136 - Reading First Excel Email :s.celik@hotmail.com
+2021-07-28 17:30:03 DEBUG ReadToExcel:140 - Reading First Excel Phone :5397806627
+2021-07-28 17:30:03 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumlu
+2021-07-28 17:30:03 DEBUG ReadToExcel:124 - Reading First Excel Name :Ahmet
+2021-07-28 17:30:03 DEBUG ReadToExcel:128 - Reading First Excel Surname :Duman
+2021-07-28 17:30:03 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :12.12.1998
+2021-07-28 17:30:03 DEBUG ReadToExcel:136 - Reading First Excel Email :ahmet.duman@gmail.com
+2021-07-28 17:30:03 DEBUG ReadToExcel:140 - Reading First Excel Phone :5452233422
+2021-07-28 17:30:03 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumlu
+2021-07-28 17:30:03 DEBUG ReadToExcel:124 - Reading First Excel Name :Tuncay
+2021-07-28 17:30:03 DEBUG ReadToExcel:128 - Reading First Excel Surname :Demir
+2021-07-28 17:30:03 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :01.03.2009
+2021-07-28 17:30:03 DEBUG ReadToExcel:136 - Reading First Excel Email :tuncay.demir@optiim.com
+2021-07-28 17:30:03 DEBUG ReadToExcel:140 - Reading First Excel Phone :5351239232
+2021-07-28 17:30:03 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumsuz
+2021-07-28 17:30:03 DEBUG ReadToExcel:124 - Reading First Excel Name :Zeynep
+2021-07-28 17:30:03 DEBUG ReadToExcel:128 - Reading First Excel Surname :Altınsoy
+2021-07-28 17:30:03 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :05.05.1997
+2021-07-28 17:30:03 DEBUG ReadToExcel:136 - Reading First Excel Email :
+2021-07-28 17:30:03 DEBUG ReadToExcel:144 - Reading First Excel Status :Bilinmiyor
+2021-07-28 17:30:03 DEBUG ReadToExcel:124 - Reading First Excel Name :Asli
+2021-07-28 17:30:03 DEBUG ReadToExcel:128 - Reading First Excel Surname :Gümüşsu
+2021-07-28 17:30:03 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :05.05.1997
+2021-07-28 17:30:03 DEBUG ReadToExcel:136 - Reading First Excel Email :a.gumussu@hotmail.com
+2021-07-28 17:30:03 DEBUG ReadToExcel:140 - Reading First Excel Phone :5437678987
+2021-07-28 17:30:03 DEBUG ReadToExcel:144 - Reading First Excel Status :Bilinmiyor
+2021-07-28 17:30:03 DEBUG ReadToExcel:124 - Reading First Excel Name :Serdar
+2021-07-28 17:30:03 DEBUG ReadToExcel:128 - Reading First Excel Surname :Ay
+2021-07-28 17:30:03 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :12.02.1978
+2021-07-28 17:30:03 DEBUG ReadToExcel:136 - Reading First Excel Email :s.ay@hotmail.com
+2021-07-28 17:30:03 DEBUG ReadToExcel:144 - Reading First Excel Status :Kontrol edilmedi
+2021-07-28 17:30:03 DEBUG ReadToExcel:124 - Reading First Excel Name :Mehmet
+2021-07-28 17:30:03 DEBUG ReadToExcel:128 - Reading First Excel Surname :Beşli
+2021-07-28 17:30:03 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :12.01.1990
+2021-07-28 17:30:03 DEBUG ReadToExcel:136 - Reading First Excel Email :m.besli@optiim.com
+2021-07-28 17:30:03 DEBUG ReadToExcel:140 - Reading First Excel Phone :5348778000
+2021-07-28 17:30:03 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumsuz
+2021-07-28 17:30:03 DEBUG ReadToExcel:124 - Reading First Excel Name :Mesut
+2021-07-28 17:30:03 DEBUG ReadToExcel:128 - Reading First Excel Surname :Çelik
+2021-07-28 17:30:03 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :04.05.1978
+2021-07-28 17:30:03 DEBUG ReadToExcel:136 - Reading First Excel Email :mesutcelik@optiim.com
+2021-07-28 17:30:03 DEBUG ReadToExcel:140 - Reading First Excel Phone :5557879340
+2021-07-28 17:30:03 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumlu
+2021-07-28 17:30:03 DEBUG ReadToExcel:124 - Reading First Excel Name :Hasibe
+2021-07-28 17:30:03 DEBUG ReadToExcel:128 - Reading First Excel Surname :Duman
+2021-07-28 17:30:03 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :11.10.2000
+2021-07-28 17:30:03 DEBUG ReadToExcel:140 - Reading First Excel Phone :5318900098
+2021-07-28 17:30:03 DEBUG ReadToExcel:124 - Reading First Excel Name :Hakan
+2021-07-28 17:30:03 DEBUG ReadToExcel:128 - Reading First Excel Surname :Soylu
+2021-07-28 17:30:03 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :10.04.2008
+2021-07-28 17:30:03 DEBUG ReadToExcel:136 - Reading First Excel Email :h.soylu@optiim.com
+2021-07-28 17:30:03 DEBUG ReadToExcel:140 - Reading First Excel Phone :5318900228
+2021-07-28 17:30:03 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumsuz
+2021-07-28 17:30:03 DEBUG ReadToExcel:124 - Reading First Excel Name :Sezai
+2021-07-28 17:30:03 DEBUG ReadToExcel:128 - Reading First Excel Surname :Çelik
+2021-07-28 17:30:03 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :20.01.1990
+2021-07-28 17:30:03 DEBUG ReadToExcel:136 - Reading First Excel Email :sezaicelik12@hotmail.com
+2021-07-28 17:30:03 DEBUG ReadToExcel:140 - Reading First Excel Phone :5397806619
+2021-07-28 17:30:03 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumlu
+2021-07-28 17:30:03 INFO  ReadToExcel:195 - Workbook and Input Stream closed.
+2021-07-28 17:30:03 INFO  ReadToExcel:64 - ##############Starting Reading Second Excel ###############
+2021-07-28 17:30:03 DEBUG ReadToExcel:157 - Reading Second Excel Name :Sezai
+2021-07-28 17:30:03 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Çelik
+2021-07-28 17:30:03 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :20.01.1990
+2021-07-28 17:30:03 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :İstanbul
+2021-07-28 17:30:03 DEBUG ReadToExcel:173 - Reading Second Excel Email :s.celik@hotmail.com
+2021-07-28 17:30:03 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5397806627
+2021-07-28 17:30:03 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışıyor
+2021-07-28 17:30:03 DEBUG ReadToExcel:185 - Reading Second Excel University :Dumlupınar
+2021-07-28 17:30:03 DEBUG ReadToExcel:157 - Reading Second Excel Name :Ahmet
+2021-07-28 17:30:03 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Duman
+2021-07-28 17:30:03 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :12.12.1998
+2021-07-28 17:30:03 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Ankara
+2021-07-28 17:30:03 DEBUG ReadToExcel:173 - Reading Second Excel Email :a.duman@gmail.com
+2021-07-28 17:30:03 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5452233432
+2021-07-28 17:30:03 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışıyor
+2021-07-28 17:30:03 DEBUG ReadToExcel:185 - Reading Second Excel University :İTÜ
+2021-07-28 17:30:03 DEBUG ReadToExcel:157 - Reading Second Excel Name :Tuncay
+2021-07-28 17:30:03 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Demir
+2021-07-28 17:30:03 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :01.03.2010
+2021-07-28 17:30:03 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :İzmir
+2021-07-28 17:30:03 DEBUG ReadToExcel:173 - Reading Second Excel Email :t.demir@optiim.com
+2021-07-28 17:30:03 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5351239273
+2021-07-28 17:30:03 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışmıyor
+2021-07-28 17:30:03 DEBUG ReadToExcel:185 - Reading Second Excel University :Odtü
+2021-07-28 17:30:03 DEBUG ReadToExcel:157 - Reading Second Excel Name :Zeynep
+2021-07-28 17:30:03 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Altınsoy
+2021-07-28 17:30:03 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :05.05.1997
+2021-07-28 17:30:03 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Diyarbakır
+2021-07-28 17:30:03 DEBUG ReadToExcel:173 - Reading Second Excel Email :z.altinsoy@gmail.com
+2021-07-28 17:30:03 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5428776767
+2021-07-28 17:30:03 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışmıyor
+2021-07-28 17:30:03 DEBUG ReadToExcel:185 - Reading Second Excel University :İstanbul Üniv.
+2021-07-28 17:30:03 DEBUG ReadToExcel:157 - Reading Second Excel Name :Asli
+2021-07-28 17:30:03 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Gümüşsu
+2021-07-28 17:30:03 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :05.05.1997
+2021-07-28 17:30:03 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Antalya
+2021-07-28 17:30:03 DEBUG ReadToExcel:173 - Reading Second Excel Email :a.gumussu@hotmail.com
+2021-07-28 17:30:03 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5437678987
+2021-07-28 17:30:03 DEBUG ReadToExcel:157 - Reading Second Excel Name :Serdar
+2021-07-28 17:30:03 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Ay
+2021-07-28 17:30:03 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :12.02.1978
+2021-07-28 17:30:03 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Muğla
+2021-07-28 17:30:03 DEBUG ReadToExcel:173 - Reading Second Excel Email :s.ay@hotmail.com
+2021-07-28 17:30:03 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışmıyor
+2021-07-28 17:30:03 DEBUG ReadToExcel:185 - Reading Second Excel University :Kastamonu Üniv.
+2021-07-28 17:30:03 DEBUG ReadToExcel:157 - Reading Second Excel Name :Mehmet
+2021-07-28 17:30:03 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Beşli
+2021-07-28 17:30:03 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :12.01.1990
+2021-07-28 17:30:03 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :İzmir
+2021-07-28 17:30:03 DEBUG ReadToExcel:173 - Reading Second Excel Email :m.besli@optiim.com
+2021-07-28 17:30:03 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5348778000
+2021-07-28 17:30:03 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışıyor
+2021-07-28 17:30:03 DEBUG ReadToExcel:157 - Reading Second Excel Name :Mesut
+2021-07-28 17:30:03 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Çelik
+2021-07-28 17:30:03 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :04.05.1998
+2021-07-28 17:30:03 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :İstanbul
+2021-07-28 17:30:03 DEBUG ReadToExcel:173 - Reading Second Excel Email :m.celik@optiim.com
+2021-07-28 17:30:03 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5557879870
+2021-07-28 17:30:03 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışıyor
+2021-07-28 17:30:03 DEBUG ReadToExcel:185 - Reading Second Excel University :Selçuk Üniv.
+2021-07-28 17:30:03 DEBUG ReadToExcel:157 - Reading Second Excel Name :Hasibe
+2021-07-28 17:30:03 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Duman
+2021-07-28 17:30:03 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :11.10.2000
+2021-07-28 17:30:03 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5318900098
+2021-07-28 17:30:03 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Bilinmiyor
+2021-07-28 17:30:03 DEBUG ReadToExcel:157 - Reading Second Excel Name :Hakan
+2021-07-28 17:30:03 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Soylu
+2021-07-28 17:30:03 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :10.04.2008
+2021-07-28 17:30:03 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Van
+2021-07-28 17:30:03 DEBUG ReadToExcel:173 - Reading Second Excel Email :h.soylu@optiim.com
+2021-07-28 17:30:03 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5318900228
+2021-07-28 17:30:03 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Bilinmiyor
+2021-07-28 17:30:03 DEBUG ReadToExcel:185 - Reading Second Excel University :Bilkent
+2021-07-28 17:30:03 DEBUG ReadToExcel:157 - Reading Second Excel Name :Sezai
+2021-07-28 17:30:03 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Çelik
+2021-07-28 17:30:03 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :20.01.1990
+2021-07-28 17:30:03 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Adana
+2021-07-28 17:30:03 DEBUG ReadToExcel:173 - Reading Second Excel Email :sezaicelik12@hotmail.com
+2021-07-28 17:30:03 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5397806619
+2021-07-28 17:30:03 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Olumlu
+2021-07-28 17:30:03 DEBUG ReadToExcel:185 - Reading Second Excel University :Marmara
+2021-07-28 17:30:03 INFO  ReadToExcel:195 - Workbook and Input Stream closed.
+2021-07-28 17:30:03 INFO  ExcelMatches:21 - ##############Starting Matches Excel ###############
+2021-07-28 17:30:03 INFO  ExcelMatches:24 - ############## Write New List Starting ###############
+2021-07-28 17:52:44 INFO  ExcelMatches:76 - ############## Write New List Finished ###############
+2021-07-28 17:52:48 INFO  ReadToExcel:29 - ##############Starting Reading First Excel ###############
+2021-07-28 17:52:49 DEBUG ReadToExcel:124 - Reading First Excel Name :Sezai
+2021-07-28 17:52:49 DEBUG ReadToExcel:128 - Reading First Excel Surname :Çelik
+2021-07-28 17:52:49 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :20.01.1990
+2021-07-28 17:52:49 DEBUG ReadToExcel:136 - Reading First Excel Email :s.celik@hotmail.com
+2021-07-28 17:52:49 DEBUG ReadToExcel:140 - Reading First Excel Phone :5397806627
+2021-07-28 17:52:49 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumlu
+2021-07-28 17:52:49 DEBUG ReadToExcel:124 - Reading First Excel Name :Ahmet
+2021-07-28 17:52:49 DEBUG ReadToExcel:128 - Reading First Excel Surname :Duman
+2021-07-28 17:52:49 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :12.12.1998
+2021-07-28 17:52:49 DEBUG ReadToExcel:136 - Reading First Excel Email :ahmet.duman@gmail.com
+2021-07-28 17:52:49 DEBUG ReadToExcel:140 - Reading First Excel Phone :5452233422
+2021-07-28 17:52:49 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumlu
+2021-07-28 17:52:49 DEBUG ReadToExcel:124 - Reading First Excel Name :Tuncay
+2021-07-28 17:52:49 DEBUG ReadToExcel:128 - Reading First Excel Surname :Demir
+2021-07-28 17:52:49 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :01.03.2009
+2021-07-28 17:52:49 DEBUG ReadToExcel:136 - Reading First Excel Email :tuncay.demir@optiim.com
+2021-07-28 17:52:49 DEBUG ReadToExcel:140 - Reading First Excel Phone :5351239232
+2021-07-28 17:52:49 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumsuz
+2021-07-28 17:52:49 DEBUG ReadToExcel:124 - Reading First Excel Name :Zeynep
+2021-07-28 17:52:49 DEBUG ReadToExcel:128 - Reading First Excel Surname :Altınsoy
+2021-07-28 17:52:49 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :05.05.1997
+2021-07-28 17:52:49 DEBUG ReadToExcel:136 - Reading First Excel Email :
+2021-07-28 17:52:49 DEBUG ReadToExcel:144 - Reading First Excel Status :Bilinmiyor
+2021-07-28 17:52:49 DEBUG ReadToExcel:124 - Reading First Excel Name :Asli
+2021-07-28 17:52:49 DEBUG ReadToExcel:128 - Reading First Excel Surname :Gümüşsu
+2021-07-28 17:52:49 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :05.05.1997
+2021-07-28 17:52:49 DEBUG ReadToExcel:136 - Reading First Excel Email :a.gumussu@hotmail.com
+2021-07-28 17:52:49 DEBUG ReadToExcel:140 - Reading First Excel Phone :5437678987
+2021-07-28 17:52:49 DEBUG ReadToExcel:144 - Reading First Excel Status :Bilinmiyor
+2021-07-28 17:52:49 DEBUG ReadToExcel:124 - Reading First Excel Name :Serdar
+2021-07-28 17:52:49 DEBUG ReadToExcel:128 - Reading First Excel Surname :Ay
+2021-07-28 17:52:49 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :12.02.1978
+2021-07-28 17:52:49 DEBUG ReadToExcel:136 - Reading First Excel Email :s.ay@hotmail.com
+2021-07-28 17:52:49 DEBUG ReadToExcel:144 - Reading First Excel Status :Kontrol edilmedi
+2021-07-28 17:52:49 DEBUG ReadToExcel:124 - Reading First Excel Name :Mehmet
+2021-07-28 17:52:49 DEBUG ReadToExcel:128 - Reading First Excel Surname :Beşli
+2021-07-28 17:52:49 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :12.01.1990
+2021-07-28 17:52:49 DEBUG ReadToExcel:136 - Reading First Excel Email :m.besli@optiim.com
+2021-07-28 17:52:49 DEBUG ReadToExcel:140 - Reading First Excel Phone :5348778000
+2021-07-28 17:52:49 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumsuz
+2021-07-28 17:52:49 DEBUG ReadToExcel:124 - Reading First Excel Name :Mesut
+2021-07-28 17:52:49 DEBUG ReadToExcel:128 - Reading First Excel Surname :Çelik
+2021-07-28 17:52:49 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :04.05.1978
+2021-07-28 17:52:49 DEBUG ReadToExcel:136 - Reading First Excel Email :mesutcelik@optiim.com
+2021-07-28 17:52:49 DEBUG ReadToExcel:140 - Reading First Excel Phone :5557879340
+2021-07-28 17:52:49 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumlu
+2021-07-28 17:52:49 DEBUG ReadToExcel:124 - Reading First Excel Name :Hasibe
+2021-07-28 17:52:49 DEBUG ReadToExcel:128 - Reading First Excel Surname :Duman
+2021-07-28 17:52:49 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :11.10.2000
+2021-07-28 17:52:49 DEBUG ReadToExcel:140 - Reading First Excel Phone :5318900098
+2021-07-28 17:52:49 DEBUG ReadToExcel:124 - Reading First Excel Name :Hakan
+2021-07-28 17:52:49 DEBUG ReadToExcel:128 - Reading First Excel Surname :Soylu
+2021-07-28 17:52:49 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :10.04.2008
+2021-07-28 17:52:49 DEBUG ReadToExcel:136 - Reading First Excel Email :h.soylu@optiim.com
+2021-07-28 17:52:49 DEBUG ReadToExcel:140 - Reading First Excel Phone :5318900228
+2021-07-28 17:52:49 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumsuz
+2021-07-28 17:52:49 DEBUG ReadToExcel:124 - Reading First Excel Name :Sezai
+2021-07-28 17:52:49 DEBUG ReadToExcel:128 - Reading First Excel Surname :Çelik
+2021-07-28 17:52:49 DEBUG ReadToExcel:132 - Reading First Excel Birth Date :20.01.1990
+2021-07-28 17:52:49 DEBUG ReadToExcel:136 - Reading First Excel Email :sezaicelik12@hotmail.com
+2021-07-28 17:52:49 DEBUG ReadToExcel:140 - Reading First Excel Phone :5397806619
+2021-07-28 17:52:49 DEBUG ReadToExcel:144 - Reading First Excel Status :Olumlu
+2021-07-28 17:52:49 INFO  ReadToExcel:195 - Workbook and Input Stream closed.
+2021-07-28 17:52:49 INFO  ReadToExcel:64 - ##############Starting Reading Second Excel ###############
+2021-07-28 17:52:49 DEBUG ReadToExcel:157 - Reading Second Excel Name :Sezai
+2021-07-28 17:52:49 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Çelik
+2021-07-28 17:52:49 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :20.01.1990
+2021-07-28 17:52:49 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :İstanbul
+2021-07-28 17:52:49 DEBUG ReadToExcel:173 - Reading Second Excel Email :s.celik@hotmail.com
+2021-07-28 17:52:49 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5397806627
+2021-07-28 17:52:49 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışıyor
+2021-07-28 17:52:49 DEBUG ReadToExcel:185 - Reading Second Excel University :Dumlupınar
+2021-07-28 17:52:49 DEBUG ReadToExcel:157 - Reading Second Excel Name :Ahmet
+2021-07-28 17:52:49 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Duman
+2021-07-28 17:52:49 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :12.12.1998
+2021-07-28 17:52:49 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Ankara
+2021-07-28 17:52:49 DEBUG ReadToExcel:173 - Reading Second Excel Email :a.duman@gmail.com
+2021-07-28 17:52:49 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5452233432
+2021-07-28 17:52:49 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışıyor
+2021-07-28 17:52:49 DEBUG ReadToExcel:185 - Reading Second Excel University :İTÜ
+2021-07-28 17:52:49 DEBUG ReadToExcel:157 - Reading Second Excel Name :Tuncay
+2021-07-28 17:52:49 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Demir
+2021-07-28 17:52:49 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :01.03.2010
+2021-07-28 17:52:49 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :İzmir
+2021-07-28 17:52:49 DEBUG ReadToExcel:173 - Reading Second Excel Email :t.demir@optiim.com
+2021-07-28 17:52:49 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5351239273
+2021-07-28 17:52:49 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışmıyor
+2021-07-28 17:52:49 DEBUG ReadToExcel:185 - Reading Second Excel University :Odtü
+2021-07-28 17:52:49 DEBUG ReadToExcel:157 - Reading Second Excel Name :Zeynep
+2021-07-28 17:52:49 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Altınsoy
+2021-07-28 17:52:49 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :05.05.1997
+2021-07-28 17:52:49 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Diyarbakır
+2021-07-28 17:52:49 DEBUG ReadToExcel:173 - Reading Second Excel Email :z.altinsoy@gmail.com
+2021-07-28 17:52:49 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5428776767
+2021-07-28 17:52:49 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışmıyor
+2021-07-28 17:52:49 DEBUG ReadToExcel:185 - Reading Second Excel University :İstanbul Üniv.
+2021-07-28 17:52:49 DEBUG ReadToExcel:157 - Reading Second Excel Name :Asli
+2021-07-28 17:52:49 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Gümüşsu
+2021-07-28 17:52:49 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :05.05.1997
+2021-07-28 17:52:49 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Antalya
+2021-07-28 17:52:49 DEBUG ReadToExcel:173 - Reading Second Excel Email :a.gumussu@hotmail.com
+2021-07-28 17:52:49 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5437678987
+2021-07-28 17:52:49 DEBUG ReadToExcel:157 - Reading Second Excel Name :Serdar
+2021-07-28 17:52:49 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Ay
+2021-07-28 17:52:49 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :12.02.1978
+2021-07-28 17:52:49 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Muğla
+2021-07-28 17:52:49 DEBUG ReadToExcel:173 - Reading Second Excel Email :s.ay@hotmail.com
+2021-07-28 17:52:49 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışmıyor
+2021-07-28 17:52:49 DEBUG ReadToExcel:185 - Reading Second Excel University :Kastamonu Üniv.
+2021-07-28 17:52:49 DEBUG ReadToExcel:157 - Reading Second Excel Name :Mehmet
+2021-07-28 17:52:49 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Beşli
+2021-07-28 17:52:49 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :12.01.1990
+2021-07-28 17:52:49 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :İzmir
+2021-07-28 17:52:49 DEBUG ReadToExcel:173 - Reading Second Excel Email :m.besli@optiim.com
+2021-07-28 17:52:49 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5348778000
+2021-07-28 17:52:49 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışıyor
+2021-07-28 17:52:49 DEBUG ReadToExcel:157 - Reading Second Excel Name :Mesut
+2021-07-28 17:52:49 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Çelik
+2021-07-28 17:52:49 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :04.05.1998
+2021-07-28 17:52:49 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :İstanbul
+2021-07-28 17:52:49 DEBUG ReadToExcel:173 - Reading Second Excel Email :m.celik@optiim.com
+2021-07-28 17:52:49 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5557879870
+2021-07-28 17:52:49 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Çalışıyor
+2021-07-28 17:52:49 DEBUG ReadToExcel:185 - Reading Second Excel University :Selçuk Üniv.
+2021-07-28 17:52:49 DEBUG ReadToExcel:157 - Reading Second Excel Name :Hasibe
+2021-07-28 17:52:49 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Duman
+2021-07-28 17:52:49 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :11.10.2000
+2021-07-28 17:52:49 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5318900098
+2021-07-28 17:52:49 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Bilinmiyor
+2021-07-28 17:52:49 DEBUG ReadToExcel:157 - Reading Second Excel Name :Hakan
+2021-07-28 17:52:49 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Soylu
+2021-07-28 17:52:49 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :10.04.2008
+2021-07-28 17:52:49 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Van
+2021-07-28 17:52:49 DEBUG ReadToExcel:173 - Reading Second Excel Email :h.soylu@optiim.com
+2021-07-28 17:52:49 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5318900228
+2021-07-28 17:52:49 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Bilinmiyor
+2021-07-28 17:52:49 DEBUG ReadToExcel:185 - Reading Second Excel University :Bilkent
+2021-07-28 17:52:49 DEBUG ReadToExcel:157 - Reading Second Excel Name :Sezai
+2021-07-28 17:52:49 DEBUG ReadToExcel:161 - Reading Second Excel Surname :Çelik
+2021-07-28 17:52:49 DEBUG ReadToExcel:165 - Reading Second Excel Birth Date :20.01.1990
+2021-07-28 17:52:49 DEBUG ReadToExcel:169 - Reading Second Excel Birth Place :Adana
+2021-07-28 17:52:49 DEBUG ReadToExcel:173 - Reading Second Excel Email :sezaicelik12@hotmail.com
+2021-07-28 17:52:49 DEBUG ReadToExcel:177 - Reading Second Excel Phone :5397806619
+2021-07-28 17:52:49 DEBUG ReadToExcel:181 - Reading Second Excel Work Status :Olumlu
+2021-07-28 17:52:49 DEBUG ReadToExcel:185 - Reading Second Excel University :Marmara
+2021-07-28 17:52:49 INFO  ReadToExcel:195 - Workbook and Input Stream closed.
+2021-07-28 17:52:49 INFO  ExcelMatches:21 - ##############Starting Matches Excel ###############
+2021-07-28 17:52:49 INFO  ExcelMatches:24 - ############## Write New List Starting ###############
+2021-07-28 17:55:58 INFO  ExcelMatches:65 - ############## Write New List Finished ###############
+2021-07-28 17:55:58 INFO  WriteToExcelResult:35 - ############## Write New Excel Starting ###############
+2021-07-28 17:56:02 INFO  ReadToExcel:29 - ##############Starting Reading First Excel ###############
+2021-07-28 17:56:03 DEBUG ReadToExcel:123 - Reading First Excel Name :Sezai
+2021-07-28 17:56:03 DEBUG ReadToExcel:127 - Reading First Excel Surname :Çelik
+2021-07-28 17:56:03 DEBUG ReadToExcel:131 - Reading First Excel Birth Date :20.01.1990
+2021-07-28 17:56:03 DEBUG ReadToExcel:135 - Reading First Excel Email :s.celik@hotmail.com
+2021-07-28 17:56:03 DEBUG ReadToExcel:139 - Reading First Excel Phone :5397806627
+2021-07-28 17:56:03 DEBUG ReadToExcel:143 - Reading First Excel Status :Olumlu
+2021-07-28 17:56:03 DEBUG ReadToExcel:123 - Reading First Excel Name :Ahmet
+2021-07-28 17:56:03 DEBUG ReadToExcel:127 - Reading First Excel Surname :Duman
+2021-07-28 17:56:03 DEBUG ReadToExcel:131 - Reading First Excel Birth Date :12.12.1998
+2021-07-28 17:56:03 DEBUG ReadToExcel:135 - Reading First Excel Email :ahmet.duman@gmail.com
+2021-07-28 17:56:03 DEBUG ReadToExcel:139 - Reading First Excel Phone :5452233422
+2021-07-28 17:56:03 DEBUG ReadToExcel:143 - Reading First Excel Status :Olumlu
+2021-07-28 17:56:03 DEBUG ReadToExcel:123 - Reading First Excel Name :Tuncay
+2021-07-28 17:56:03 DEBUG ReadToExcel:127 - Reading First Excel Surname :Demir
+2021-07-28 17:56:03 DEBUG ReadToExcel:131 - Reading First Excel Birth Date :01.03.2009
+2021-07-28 17:56:03 DEBUG ReadToExcel:135 - Reading First Excel Email :tuncay.demir@optiim.com
+2021-07-28 17:56:03 DEBUG ReadToExcel:139 - Reading First Excel Phone :5351239232
+2021-07-28 17:56:03 DEBUG ReadToExcel:143 - Reading First Excel Status :Olumsuz
+2021-07-28 17:56:03 DEBUG ReadToExcel:123 - Reading First Excel Name :Zeynep
+2021-07-28 17:56:03 DEBUG ReadToExcel:127 - Reading First Excel Surname :Altınsoy
+2021-07-28 17:56:03 DEBUG ReadToExcel:131 - Reading First Excel Birth Date :05.05.1997
+2021-07-28 17:56:03 DEBUG ReadToExcel:135 - Reading First Excel Email :
+2021-07-28 17:56:03 DEBUG ReadToExcel:143 - Reading First Excel Status :Bilinmiyor
+2021-07-28 17:56:03 DEBUG ReadToExcel:123 - Reading First Excel Name :Asli
+2021-07-28 17:56:03 DEBUG ReadToExcel:127 - Reading First Excel Surname :Gümüşsu
+2021-07-28 17:56:03 DEBUG ReadToExcel:131 - Reading First Excel Birth Date :05.05.1997
+2021-07-28 17:56:03 DEBUG ReadToExcel:135 - Reading First Excel Email :a.gumussu@hotmail.com
+2021-07-28 17:56:03 DEBUG ReadToExcel:139 - Reading First Excel Phone :5437678987
+2021-07-28 17:56:03 DEBUG ReadToExcel:143 - Reading First Excel Status :Bilinmiyor
+2021-07-28 17:56:03 DEBUG ReadToExcel:123 - Reading First Excel Name :Serdar
+2021-07-28 17:56:03 DEBUG ReadToExcel:127 - Reading First Excel Surname :Ay
+2021-07-28 17:56:03 DEBUG ReadToExcel:131 - Reading First Excel Birth Date :12.02.1978
+2021-07-28 17:56:03 DEBUG ReadToExcel:135 - Reading First Excel Email :s.ay@hotmail.com
+2021-07-28 17:56:03 DEBUG ReadToExcel:143 - Reading First Excel Status :Kontrol edilmedi
+2021-07-28 17:56:03 DEBUG ReadToExcel:123 - Reading First Excel Name :Mehmet
+2021-07-28 17:56:03 DEBUG ReadToExcel:127 - Reading First Excel Surname :Beşli
+2021-07-28 17:56:03 DEBUG ReadToExcel:131 - Reading First Excel Birth Date :12.01.1990
+2021-07-28 17:56:03 DEBUG ReadToExcel:135 - Reading First Excel Email :m.besli@optiim.com
+2021-07-28 17:56:03 DEBUG ReadToExcel:139 - Reading First Excel Phone :5348778000
+2021-07-28 17:56:03 DEBUG ReadToExcel:143 - Reading First Excel Status :Olumsuz
+2021-07-28 17:56:03 DEBUG ReadToExcel:123 - Reading First Excel Name :Mesut
+2021-07-28 17:56:03 DEBUG ReadToExcel:127 - Reading First Excel Surname :Çelik
+2021-07-28 17:56:03 DEBUG ReadToExcel:131 - Reading First Excel Birth Date :04.05.1978
+2021-07-28 17:56:03 DEBUG ReadToExcel:135 - Reading First Excel Email :mesutcelik@optiim.com
+2021-07-28 17:56:03 DEBUG ReadToExcel:139 - Reading First Excel Phone :5557879340
+2021-07-28 17:56:03 DEBUG ReadToExcel:143 - Reading First Excel Status :Olumlu
+2021-07-28 17:56:03 DEBUG ReadToExcel:123 - Reading First Excel Name :Hasibe
+2021-07-28 17:56:03 DEBUG ReadToExcel:127 - Reading First Excel Surname :Duman
+2021-07-28 17:56:03 DEBUG ReadToExcel:131 - Reading First Excel Birth Date :11.10.2000
+2021-07-28 17:56:03 DEBUG ReadToExcel:139 - Reading First Excel Phone :5318900098
+2021-07-28 17:56:03 DEBUG ReadToExcel:123 - Reading First Excel Name :Hakan
+2021-07-28 17:56:03 DEBUG ReadToExcel:127 - Reading First Excel Surname :Soylu
+2021-07-28 17:56:03 DEBUG ReadToExcel:131 - Reading First Excel Birth Date :10.04.2008
+2021-07-28 17:56:03 DEBUG ReadToExcel:135 - Reading First Excel Email :h.soylu@optiim.com
+2021-07-28 17:56:03 DEBUG ReadToExcel:139 - Reading First Excel Phone :5318900228
+2021-07-28 17:56:03 DEBUG ReadToExcel:143 - Reading First Excel Status :Olumsuz
+2021-07-28 17:56:03 DEBUG ReadToExcel:123 - Reading First Excel Name :Sezai
+2021-07-28 17:56:03 DEBUG ReadToExcel:127 - Reading First Excel Surname :Çelik
+2021-07-28 17:56:03 DEBUG ReadToExcel:131 - Reading First Excel Birth Date :20.01.1990
+2021-07-28 17:56:03 DEBUG ReadToExcel:135 - Reading First Excel Email :sezaicelik12@hotmail.com
+2021-07-28 17:56:03 DEBUG ReadToExcel:139 - Reading First Excel Phone :5397806619
+2021-07-28 17:56:03 DEBUG ReadToExcel:143 - Reading First Excel Status :Olumlu
+2021-07-28 17:56:03 INFO  ReadToExcel:194 - Workbook and Input Stream closed.
+2021-07-28 17:56:03 INFO  ReadToExcel:64 - ##############Starting Reading Second Excel ###############
+2021-07-28 17:56:03 DEBUG ReadToExcel:156 - Reading Second Excel Name :Sezai
+2021-07-28 17:56:03 DEBUG ReadToExcel:160 - Reading Second Excel Surname :Çelik
+2021-07-28 17:56:03 DEBUG ReadToExcel:164 - Reading Second Excel Birth Date :20.01.1990
+2021-07-28 17:56:03 DEBUG ReadToExcel:168 - Reading Second Excel Birth Place :İstanbul
+2021-07-28 17:56:03 DEBUG ReadToExcel:172 - Reading Second Excel Email :s.celik@hotmail.com
+2021-07-28 17:56:03 DEBUG ReadToExcel:176 - Reading Second Excel Phone :5397806627
+2021-07-28 17:56:03 DEBUG ReadToExcel:180 - Reading Second Excel Work Status :Çalışıyor
+2021-07-28 17:56:03 DEBUG ReadToExcel:184 - Reading Second Excel University :Dumlupınar
+2021-07-28 17:56:03 DEBUG ReadToExcel:156 - Reading Second Excel Name :Ahmet
+2021-07-28 17:56:03 DEBUG ReadToExcel:160 - Reading Second Excel Surname :Duman
+2021-07-28 17:56:03 DEBUG ReadToExcel:164 - Reading Second Excel Birth Date :12.12.1998
+2021-07-28 17:56:03 DEBUG ReadToExcel:168 - Reading Second Excel Birth Place :Ankara
+2021-07-28 17:56:03 DEBUG ReadToExcel:172 - Reading Second Excel Email :a.duman@gmail.com
+2021-07-28 17:56:03 DEBUG ReadToExcel:176 - Reading Second Excel Phone :5452233432
+2021-07-28 17:56:03 DEBUG ReadToExcel:180 - Reading Second Excel Work Status :Çalışıyor
+2021-07-28 17:56:03 DEBUG ReadToExcel:184 - Reading Second Excel University :İTÜ
+2021-07-28 17:56:03 DEBUG ReadToExcel:156 - Reading Second Excel Name :Tuncay
+2021-07-28 17:56:03 DEBUG ReadToExcel:160 - Reading Second Excel Surname :Demir
+2021-07-28 17:56:03 DEBUG ReadToExcel:164 - Reading Second Excel Birth Date :01.03.2010
+2021-07-28 17:56:03 DEBUG ReadToExcel:168 - Reading Second Excel Birth Place :İzmir
+2021-07-28 17:56:03 DEBUG ReadToExcel:172 - Reading Second Excel Email :t.demir@optiim.com
+2021-07-28 17:56:03 DEBUG ReadToExcel:176 - Reading Second Excel Phone :5351239273
+2021-07-28 17:56:03 DEBUG ReadToExcel:180 - Reading Second Excel Work Status :Çalışmıyor
+2021-07-28 17:56:03 DEBUG ReadToExcel:184 - Reading Second Excel University :Odtü
+2021-07-28 17:56:03 DEBUG ReadToExcel:156 - Reading Second Excel Name :Zeynep
+2021-07-28 17:56:03 DEBUG ReadToExcel:160 - Reading Second Excel Surname :Altınsoy
+2021-07-28 17:56:03 DEBUG ReadToExcel:164 - Reading Second Excel Birth Date :05.05.1997
+2021-07-28 17:56:03 DEBUG ReadToExcel:168 - Reading Second Excel Birth Place :Diyarbakır
+2021-07-28 17:56:03 DEBUG ReadToExcel:172 - Reading Second Excel Email :z.altinsoy@gmail.com
+2021-07-28 17:56:03 DEBUG ReadToExcel:176 - Reading Second Excel Phone :5428776767
+2021-07-28 17:56:03 DEBUG ReadToExcel:180 - Reading Second Excel Work Status :Çalışmıyor
+2021-07-28 17:56:03 DEBUG ReadToExcel:184 - Reading Second Excel University :İstanbul Üniv.
+2021-07-28 17:56:03 DEBUG ReadToExcel:156 - Reading Second Excel Name :Asli
+2021-07-28 17:56:03 DEBUG ReadToExcel:160 - Reading Second Excel Surname :Gümüşsu
+2021-07-28 17:56:03 DEBUG ReadToExcel:164 - Reading Second Excel Birth Date :05.05.1997
+2021-07-28 17:56:03 DEBUG ReadToExcel:168 - Reading Second Excel Birth Place :Antalya
+2021-07-28 17:56:03 DEBUG ReadToExcel:172 - Reading Second Excel Email :a.gumussu@hotmail.com
+2021-07-28 17:56:03 DEBUG ReadToExcel:176 - Reading Second Excel Phone :5437678987
+2021-07-28 17:56:03 DEBUG ReadToExcel:156 - Reading Second Excel Name :Serdar
+2021-07-28 17:56:03 DEBUG ReadToExcel:160 - Reading Second Excel Surname :Ay
+2021-07-28 17:56:03 DEBUG ReadToExcel:164 - Reading Second Excel Birth Date :12.02.1978
+2021-07-28 17:56:03 DEBUG ReadToExcel:168 - Reading Second Excel Birth Place :Muğla
+2021-07-28 17:56:03 DEBUG ReadToExcel:172 - Reading Second Excel Email :s.ay@hotmail.com
+2021-07-28 17:56:03 DEBUG ReadToExcel:180 - Reading Second Excel Work Status :Çalışmıyor
+2021-07-28 17:56:03 DEBUG ReadToExcel:184 - Reading Second Excel University :Kastamonu Üniv.
+2021-07-28 17:56:03 DEBUG ReadToExcel:156 - Reading Second Excel Name :Mehmet
+2021-07-28 17:56:03 DEBUG ReadToExcel:160 - Reading Second Excel Surname :Beşli
+2021-07-28 17:56:03 DEBUG ReadToExcel:164 - Reading Second Excel Birth Date :12.01.1990
+2021-07-28 17:56:03 DEBUG ReadToExcel:168 - Reading Second Excel Birth Place :İzmir
+2021-07-28 17:56:03 DEBUG ReadToExcel:172 - Reading Second Excel Email :m.besli@optiim.com
+2021-07-28 17:56:03 DEBUG ReadToExcel:176 - Reading Second Excel Phone :5348778000
+2021-07-28 17:56:03 DEBUG ReadToExcel:180 - Reading Second Excel Work Status :Çalışıyor
+2021-07-28 17:56:03 DEBUG ReadToExcel:156 - Reading Second Excel Name :Mesut
+2021-07-28 17:56:03 DEBUG ReadToExcel:160 - Reading Second Excel Surname :Çelik
+2021-07-28 17:56:03 DEBUG ReadToExcel:164 - Reading Second Excel Birth Date :04.05.1998
+2021-07-28 17:56:03 DEBUG ReadToExcel:168 - Reading Second Excel Birth Place :İstanbul
+2021-07-28 17:56:03 DEBUG ReadToExcel:172 - Reading Second Excel Email :m.celik@optiim.com
+2021-07-28 17:56:03 DEBUG ReadToExcel:176 - Reading Second Excel Phone :5557879870
+2021-07-28 17:56:03 DEBUG ReadToExcel:180 - Reading Second Excel Work Status :Çalışıyor
+2021-07-28 17:56:03 DEBUG ReadToExcel:184 - Reading Second Excel University :Selçuk Üniv.
+2021-07-28 17:56:03 DEBUG ReadToExcel:156 - Reading Second Excel Name :Hasibe
+2021-07-28 17:56:03 DEBUG ReadToExcel:160 - Reading Second Excel Surname :Duman
+2021-07-28 17:56:03 DEBUG ReadToExcel:164 - Reading Second Excel Birth Date :11.10.2000
+2021-07-28 17:56:03 DEBUG ReadToExcel:176 - Reading Second Excel Phone :5318900098
+2021-07-28 17:56:03 DEBUG ReadToExcel:180 - Reading Second Excel Work Status :Bilinmiyor
+2021-07-28 17:56:03 DEBUG ReadToExcel:156 - Reading Second Excel Name :Hakan
+2021-07-28 17:56:03 DEBUG ReadToExcel:160 - Reading Second Excel Surname :Soylu
+2021-07-28 17:56:03 DEBUG ReadToExcel:164 - Reading Second Excel Birth Date :10.04.2008
+2021-07-28 17:56:03 DEBUG ReadToExcel:168 - Reading Second Excel Birth Place :Van
+2021-07-28 17:56:03 DEBUG ReadToExcel:172 - Reading Second Excel Email :h.soylu@optiim.com
+2021-07-28 17:56:03 DEBUG ReadToExcel:176 - Reading Second Excel Phone :5318900228
+2021-07-28 17:56:03 DEBUG ReadToExcel:180 - Reading Second Excel Work Status :Bilinmiyor
+2021-07-28 17:56:03 DEBUG ReadToExcel:184 - Reading Second Excel University :Bilkent
+2021-07-28 17:56:03 DEBUG ReadToExcel:156 - Reading Second Excel Name :Sezai
+2021-07-28 17:56:03 DEBUG ReadToExcel:160 - Reading Second Excel Surname :Çelik
+2021-07-28 17:56:03 DEBUG ReadToExcel:164 - Reading Second Excel Birth Date :20.01.1990
+2021-07-28 17:56:03 DEBUG ReadToExcel:168 - Reading Second Excel Birth Place :Adana
+2021-07-28 17:56:03 DEBUG ReadToExcel:172 - Reading Second Excel Email :sezaicelik12@hotmail.com
+2021-07-28 17:56:03 DEBUG ReadToExcel:176 - Reading Second Excel Phone :5397806619
+2021-07-28 17:56:03 DEBUG ReadToExcel:180 - Reading Second Excel Work Status :Olumlu
+2021-07-28 17:56:03 DEBUG ReadToExcel:184 - Reading Second Excel University :Marmara
+2021-07-28 17:56:03 INFO  ReadToExcel:194 - Workbook and Input Stream closed.
+2021-07-28 17:56:03 INFO  ExcelMatches:21 - ##############Starting Matches Excel ###############
+2021-07-28 17:56:03 INFO  ExcelMatches:24 - ############## Write New List Starting ###############
+2021-07-28 17:56:03 INFO  ExcelMatches:65 - ############## Write New List Finished ###############
+2021-07-28 17:56:03 INFO  WriteToExcelResult:35 - ############## Write New Excel Starting ###############
+2021-07-28 17:56:03 INFO  WriteToExcelResult:69 - ############## Write New Excel Finished ###############
+2021-07-28 17:56:03 INFO  Main:27 - ############## Finish Matches project ###############
+2021-07-28 17:56:03 INFO  Main:28 - ############## The output is written. ###############

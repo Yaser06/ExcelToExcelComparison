@@ -65,7 +65,6 @@ public class ReadToExcel {
 
         final String SECOND_EXCEL_PATH = "src/main/resources/inputData/Excel2.xlsx";
         List<SecondExcel> excelList2 = new ArrayList<SecondExcel>();
-        SecondExcel secondExcel = new SecondExcel();
 
         FileInputStream inputStream = new FileInputStream(new File(SECOND_EXCEL_PATH));
 
@@ -79,7 +78,7 @@ public class ReadToExcel {
             if (nextRow.getRowNum() == 0) {
                 continue;
             }
-
+            SecondExcel secondExcel = new SecondExcel();
             Iterator<Cell> cellIterator = nextRow.cellIterator();
             while (cellIterator.hasNext()) {
                 Cell cell = cellIterator.next();
